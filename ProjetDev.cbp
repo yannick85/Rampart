@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProjetDev" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\ProjetDev" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-static-libgcc" />
+					<Add option="-lsfml-graphics" />
+					<Add option="-lsfml-window" />
+					<Add option="-lsfml-system" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\ProjetDev" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AbstractCaseObject.cpp" />
+		<Unit filename="AbstractCaseObject.h" />
+		<Unit filename="AbstractMovingObject.cpp" />
+		<Unit filename="AbstractMovingObject.h" />
+		<Unit filename="Canon.cpp" />
+		<Unit filename="Canon.h" />
+		<Unit filename="CaseOccupee.cpp" />
+		<Unit filename="CaseOccupee.h" />
+		<Unit filename="Forme.cpp" />
+		<Unit filename="Forme.h" />
+		<Unit filename="Forteresse.cpp" />
+		<Unit filename="Forteresse.h" />
+		<Unit filename="GestionBateau.cpp" />
+		<Unit filename="GestionBateau.h" />
+		<Unit filename="GestionCanon.cpp" />
+		<Unit filename="GestionCanon.h" />
+		<Unit filename="GestionMur.cpp" />
+		<Unit filename="GestionMur.h" />
+		<Unit filename="GestionPanneau.cpp" />
+		<Unit filename="GestionPanneau.h" />
+		<Unit filename="ImageManager.cpp" />
+		<Unit filename="ImageManager.h" />
+		<Unit filename="Map.cpp" />
+		<Unit filename="Map.h" />
+		<Unit filename="Mur.cpp" />
+		<Unit filename="Mur.h" />
+		<Unit filename="Point.h" />
+		<Unit filename="TirJoueur.cpp" />
+		<Unit filename="TirJoueur.hpp" />
+		<Unit filename="collisionManager.cpp" />
+		<Unit filename="collisionManager.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="ship.cpp" />
+		<Unit filename="ship.hpp" />
+		<Unit filename="tirBateau.cpp" />
+		<Unit filename="tirBateau.hpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

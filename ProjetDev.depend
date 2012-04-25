@@ -1,0 +1,697 @@
+# depslib dependency file v1.0
+1308154214 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\abstractcaseobject.cpp
+	"AbstractCaseObject.h"
+	"Map.h"
+
+1308153487 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\abstractcaseobject.h
+	<iostream>
+	<SFML/graphics.hpp>
+
+1308234376 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\forme.cpp
+	"Forme.h"
+	"Map.h"
+
+1308233931 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\forme.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"Mur.h"
+	"Point.h"
+
+1308232636 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\mur.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"AbstractCaseObject.h"
+
+1306394579 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\point.cpp
+
+1308152868 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\imagemanager.cpp
+	"ImageManager.h"
+
+1308152804 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\imagemanager.h
+	<map>
+	<iostream>
+	<SFML/graphics.hpp>
+
+1308176048 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\map.cpp
+	"Map.h"
+	"ImageManager.h"
+	"GestionPanneau.h"
+
+1308154484 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\map.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"Mur.h"
+	"Canon.h"
+	"Point.h"
+
+1308232695 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\mur.cpp
+	"Mur.h"
+	"ImageManager.h"
+	"Map.h"
+	"GestionMur.h"
+	"GestionPanneau.h"
+
+1307544652 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\point.cpp
+
+1307914095 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\collisionmanager.cpp
+	"CollisionManager.hpp"
+	<iostream>
+	"Map.h"
+
+1307914095 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\collisionmanager.hpp
+	<SFML/Graphics.hpp>
+	"TirJoueur.hpp"
+	"Ship.hpp"
+	"TirBateau.hpp"
+	"AbstractMovingObject.h"
+
+1304470129 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\tir.hpp
+	<SFML/Graphics.hpp>
+
+1306394579 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\ship.hpp
+	<SFML/Graphics.hpp>
+	"AbstractMovingObject.h"
+
+1306394579 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\tirbateau.hpp
+	<SFML/Graphics.hpp>
+	"ship.hpp"
+	"Mur.h"
+	"AbstractMovingObject.h"
+
+1306394579 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\fonction.c
+	<time.h>
+
+1308232782 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\main.cpp
+	"Map.h"
+	"Forme.h"
+	<time.h>
+	<sstream>
+	<string>
+	"collisionManager.hpp"
+	"GestionBateau.h"
+	"GestionCanon.h"
+	"GestionMur.h"
+	"GestionPanneau.h"
+	"Forteresse.h"
+	"CaseOccupee.h"
+	"ImageManager.h"
+
+1307817888 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\fonction.c
+	<time.h>
+
+1308176277 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\ship.cpp
+	<iostream>
+	"ship.hpp"
+	"ImageManager.h"
+	"GestionBateau.h"
+	"CollisionManager.hpp"
+
+1304465737 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\tir.cpp
+	<iostream>
+	<math.h>
+	"tir.hpp"
+
+1308176292 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\tirbateau.cpp
+	<iostream>
+	<math.h>
+	"tirBateau.hpp"
+	"ImageManager.h"
+
+1308232070 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\canon.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"AbstractCaseObject.h"
+	<vector>
+
+1308232442 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\canon.cpp
+	"Canon.h"
+	"ImageManager.h"
+	<sstream>
+	"Ship.hpp"
+	"CollisionManager.hpp"
+	"GestionCanon.h"
+	"Map.h"
+
+1308213634 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\abstractcaseobject.cpp
+	"AbstractCaseObject.h"
+	"Map.h"
+
+1308213634 c:\users\yannick\desktop\c++\projet_developpement_cpp\abstractcaseobject.h
+	<iostream>
+	<SFML/graphics.hpp>
+
+1308213634 c:\users\yannick\desktop\c++\projet_developpement_cpp\map.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"Mur.h"
+	"Canon.h"
+	"Point.h"
+
+1308320110 c:\users\yannick\desktop\c++\projet_developpement_cpp\mur.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"AbstractCaseObject.h"
+
+1308317013 c:\users\yannick\desktop\c++\projet_developpement_cpp\canon.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"AbstractCaseObject.h"
+	<vector>
+
+1308331778 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\canon.cpp
+	"Canon.h"
+	"ImageManager.h"
+	<sstream>
+	"Ship.hpp"
+	"CollisionManager.hpp"
+	"GestionCanon.h"
+	"Map.h"
+
+1308213634 c:\users\yannick\desktop\c++\projet_developpement_cpp\imagemanager.h
+	<map>
+	<iostream>
+	<SFML/graphics.hpp>
+
+1308307081 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\forme.cpp
+	"Forme.h"
+	"Map.h"
+
+1308307081 c:\users\yannick\desktop\c++\projet_developpement_cpp\forme.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"Mur.h"
+	"Point.h"
+
+1304935293 c:\users\yannick\desktop\c++\projet_developpement_cpp\point.cpp
+
+1308213634 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\imagemanager.cpp
+	"ImageManager.h"
+
+1308307081 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\map.cpp
+	"Map.h"
+	"ImageManager.h"
+	"GestionPanneau.h"
+
+1308408507 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\mur.cpp
+	"Mur.h"
+	"ImageManager.h"
+	"Map.h"
+	"GestionMur.h"
+	"GestionPanneau.h"
+
+1308213634 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\point.cpp
+
+1308431917 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\collisionmanager.cpp
+	"CollisionManager.hpp"
+	<iostream>
+	"Map.h"
+
+1308320702 c:\users\yannick\desktop\c++\projet_developpement_cpp\collisionmanager.hpp
+	<SFML/Graphics.hpp>
+	"TirJoueur.hpp"
+	"Ship.hpp"
+	"TirBateau.hpp"
+	"AbstractMovingObject.h"
+
+1304935381 c:\users\yannick\desktop\c++\projet_developpement_cpp\tir.hpp
+	<SFML/Graphics.hpp>
+
+1308320951 c:\users\yannick\desktop\c++\projet_developpement_cpp\ship.hpp
+	<SFML/Graphics.hpp>
+	"AbstractMovingObject.h"
+
+1308321251 c:\users\yannick\desktop\c++\projet_developpement_cpp\tirbateau.hpp
+	<SFML/Graphics.hpp>
+	"ship.hpp"
+	"Mur.h"
+	"AbstractMovingObject.h"
+
+1307788027 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\fonction.c
+	<time.h>
+
+1308485643 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\main.cpp
+	"Map.h"
+	"Forme.h"
+	<time.h>
+	<sstream>
+	<string>
+	"collisionManager.hpp"
+	"GestionBateau.h"
+	"GestionCanon.h"
+	"GestionMur.h"
+	"GestionPanneau.h"
+	"Forteresse.h"
+	"CaseOccupee.h"
+	"ImageManager.h"
+
+1308213636 c:\users\yannick\desktop\c++\projet_developpement_cpp\fonction.c
+	<time.h>
+
+1308432405 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\ship.cpp
+	<iostream>
+	"ship.hpp"
+	"ImageManager.h"
+	"GestionBateau.h"
+	"CollisionManager.hpp"
+
+1308432670 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\tirbateau.cpp
+	<iostream>
+	<math.h>
+	"tirBateau.hpp"
+	"ImageManager.h"
+
+1304935424 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\tir.cpp
+	<iostream>
+	<math.h>
+	"tir.hpp"
+
+1308320553 c:\users\yannick\desktop\c++\projet_developpement_cpp\tirjoueur.hpp
+	<SFML/Graphics.hpp>
+	"AbstractMovingObject.h"
+	"Canon.h"
+
+1308422326 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\tirjoueur.cpp
+	<iostream>
+	<math.h>
+	"TirJoueur.hpp"
+	"ImageManager.h"
+
+1308350668 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\gestionbateau.cpp
+	"GestionBateau.h"
+	"GestionMur.h"
+	"fonction.c"
+	"Map.h"
+	"Mur.h"
+	"CollisionManager.hpp"
+
+1308318026 c:\users\yannick\desktop\c++\projet_developpement_cpp\gestionbateau.h
+	<vector>
+	"Ship.hpp"
+	"TirBateau.hpp"
+
+1308351702 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\gestioncanon.cpp
+	"GestionCanon.h"
+	"CollisionManager.hpp"
+	"GestionBateau.h"
+	"GestionPanneau.h"
+
+1308318658 c:\users\yannick\desktop\c++\projet_developpement_cpp\gestioncanon.h
+	<vector>
+	"TirJoueur.hpp"
+	"Canon.h"
+
+1308316036 c:\users\yannick\desktop\c++\projet_developpement_cpp\abstractmovingobject.h
+	<SFML/Graphics.hpp>
+
+1308331721 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\abstractmovingobject.cpp
+	"AbstractMovingObject.h"
+
+1308383619 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\gestionmur.cpp
+	"GestionMur.h"
+	"Map.h"
+
+1308318979 c:\users\yannick\desktop\c++\projet_developpement_cpp\gestionmur.h
+	"mur.h"
+
+1307699634 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\tirjoueur.hpp
+	<SFML/Graphics.hpp>
+	"AbstractMovingObject.h"
+	"Canon.h"
+
+1306394579 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\abstractmovingobject.h
+	<SFML/Graphics.hpp>
+
+1306394579 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\abstractmovingobject.cpp
+	"AbstractMovingObject.h"
+
+1308152324 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\gestioncanon.h
+	<vector>
+	"TirJoueur.hpp"
+	"Canon.h"
+
+1308152324 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\gestionbateau.cpp
+	"GestionBateau.h"
+	"GestionMur.h"
+	"fonction.c"
+	"Map.h"
+	"Mur.h"
+	"CollisionManager.hpp"
+
+1308152324 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\gestionbateau.h
+	<vector>
+	"Ship.hpp"
+	"TirBateau.hpp"
+
+1307573877 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\gestionmur.h
+	"mur.h"
+
+1308152324 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\gestioncanon.cpp
+	"GestionCanon.h"
+	"CollisionManager.hpp"
+	"GestionBateau.h"
+	"GestionPanneau.h"
+
+1307574696 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\gestionmur.cpp
+	"GestionMur.h"
+	"Map.h"
+
+1308176306 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\tirjoueur.cpp
+	<iostream>
+	<math.h>
+	"TirJoueur.hpp"
+	"ImageManager.h"
+
+1308234421 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\point.h
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\abstractcaseobject.cpp
+	"AbstractCaseObject.h"
+	"Map.h"
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\abstractcaseobject.h
+	<iostream>
+	<SFML/graphics.hpp>
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\map.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"Mur.h"
+	"Canon.h"
+	"Point.h"
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\mur.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"AbstractCaseObject.h"
+
+1307630369 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\canon.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"AbstractCaseObject.h"
+	<vector>
+
+1307630677 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\tirjoueur.hpp
+	<SFML/Graphics.hpp>
+	"AbstractMovingObject.h"
+	"Canon.h"
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\abstractmovingobject.h
+	<SFML/Graphics.hpp>
+
+1307615653 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\point.h
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\abstractmovingobject.cpp
+	"AbstractMovingObject.h"
+
+1307630556 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\canon.cpp
+	"Canon.h"
+	"ImageManager.h"
+	<sstream>
+	"Ship.hpp"
+	"CollisionManager.hpp"
+	"GestionCanon.h"
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\imagemanager.h
+	<map>
+	<iostream>
+	<SFML/graphics.hpp>
+
+1307611980 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\ship.hpp
+	<SFML/Graphics.hpp>
+	"AbstractMovingObject.h"
+
+1307611980 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\collisionmanager.hpp
+	<SFML/Graphics.hpp>
+	"TirJoueur.hpp"
+	"Ship.hpp"
+	"TirBateau.hpp"
+	"AbstractMovingObject.h"
+
+1307611980 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\tirbateau.hpp
+	<SFML/Graphics.hpp>
+	"ship.hpp"
+	"Mur.h"
+	"AbstractMovingObject.h"
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\gestioncanon.h
+	<vector>
+	"TirJoueur.hpp"
+	"Canon.h"
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\forme.cpp
+	"Forme.h"
+	"Map.h"
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\forme.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"Mur.h"
+	"Point.h"
+
+1307631883 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\gestioncanon.cpp
+	"GestionCanon.h"
+	"CollisionManager.hpp"
+	"GestionBateau.h"
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\gestionbateau.h
+	<vector>
+	"Ship.hpp"
+	"TirBateau.hpp"
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\gestionmur.cpp
+	"GestionMur.h"
+	"Map.h"
+
+1307611979 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\gestionmur.h
+	"mur.h"
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\imagemanager.cpp
+	"ImageManager.h"
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\map.cpp
+	"Map.h"
+	"ImageManager.h"
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\mur.cpp
+	"Mur.h"
+	"ImageManager.h"
+	"Map.h"
+	"GestionMur.h"
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\point.cpp
+
+1307630702 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\tirjoueur.cpp
+	<iostream>
+	<math.h>
+	"TirJoueur.hpp"
+	"ImageManager.h"
+
+1307611979 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\collisionmanager.cpp
+	"CollisionManager.hpp"
+	<iostream>
+	"Map.h"
+
+1307611980 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\fonction.c
+	<time.h>
+
+1307611980 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\main.cpp
+	"Map.h"
+	"Forme.h"
+	<time.h>
+	<sstream>
+	<string>
+	"collisionManager.hpp"
+	"GestionBateau.h"
+	"GestionCanon.h"
+	"GestionMur.h"
+
+1307611980 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\ship.cpp
+	<iostream>
+	"ship.hpp"
+	"ImageManager.h"
+	"GestionBateau.h"
+	"CollisionManager.hpp"
+
+1307611980 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\tirbateau.cpp
+	<iostream>
+	<math.h>
+	"tirBateau.hpp"
+	"ImageManager.h"
+
+1307615754 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\gestionbateau.cpp
+	"GestionBateau.h"
+	"GestionMur.h"
+	"fonction.c"
+	"Map.h"
+	"Mur.h"
+	"CollisionManager.hpp"
+
+1307611980 c:\users\yannick\desktop\c++\projet_developpement_cpp\projet_developpement_cpp\fonction.c
+	<time.h>
+
+1308307081 c:\users\yannick\desktop\c++\projet_developpement_cpp\point.h
+
+1308408187 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\gestionpanneau.cpp
+	"GestionPanneau.h"
+	<SFML/graphics.hpp>
+	"ImageManager.h"
+	<sstream>
+	<string>
+
+1308319592 c:\users\yannick\desktop\c++\projet_developpement_cpp\gestionpanneau.h
+	<SFML/graphics.hpp>
+
+1308331321 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\forteresse.cpp
+	"forteresse.h"
+	"ImageManager.h"
+	"Map.h"
+	"CaseOccupee.h"
+	<sstream>
+
+1308317323 c:\users\yannick\desktop\c++\projet_developpement_cpp\forteresse.h
+	"AbstractCaseObject.h"
+	"CaseOccupee.h"
+
+1308330804 source:c:\users\yannick\desktop\c++\projet_developpement_cpp\caseoccupee.cpp
+	"CaseOccupee.h"
+	"ImageManager.h"
+	"Map.h"
+	<sstream>
+
+1308317153 c:\users\yannick\desktop\c++\projet_developpement_cpp\caseoccupee.h
+	"AbstractCaseObject.h"
+
+1307817888 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\caseoccupee.cpp
+	"CaseOccupee.h"
+	"ImageManager.h"
+	"Map.h"
+	<sstream>
+
+1307817888 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\caseoccupee.h
+	"AbstractCaseObject.h"
+
+1308176179 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\forteresse.cpp
+	"forteresse.h"
+	"ImageManager.h"
+	"Map.h"
+	"CaseOccupee.h"
+	<sstream>
+
+1308039721 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\forteresse.h
+	"AbstractCaseObject.h"
+	"CaseOccupee.h"
+
+1308176133 source:c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\gestionpanneau.cpp
+	"GestionPanneau.h"
+	<SFML/graphics.hpp>
+	"ImageManager.h"
+	<sstream>
+	<string>
+
+1308152324 c:\users\maxime\documents\supinfo\cours\b2\projets\developpement\projet_developpement_cpp\gestionpanneau.h
+	<SFML/graphics.hpp>
+
+1308213636 source:c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\abstractcaseobject.cpp
+	"AbstractCaseObject.h"
+	"Map.h"
+
+1308213636 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\abstractcaseobject.h
+	<iostream>
+	<SFML/graphics.hpp>
+
+1308213636 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\map.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"Mur.h"
+	"Canon.h"
+	"Point.h"
+
+1308320112 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\mur.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"AbstractCaseObject.h"
+
+1308317014 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\canon.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"AbstractCaseObject.h"
+	<vector>
+
+1308307082 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\point.h
+
+1308331722 source:c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\abstractmovingobject.cpp
+	"AbstractMovingObject.h"
+
+1308316038 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\abstractmovingobject.h
+	<SFML/Graphics.hpp>
+
+1308331780 source:c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\canon.cpp
+	"Canon.h"
+	"ImageManager.h"
+	<sstream>
+	"Ship.hpp"
+	"CollisionManager.hpp"
+	"GestionCanon.h"
+	"Map.h"
+
+1308213636 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\imagemanager.h
+	<map>
+	<iostream>
+	<SFML/graphics.hpp>
+
+1308320952 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\ship.hpp
+	<SFML/Graphics.hpp>
+	"AbstractMovingObject.h"
+
+1308320704 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\collisionmanager.hpp
+	<SFML/Graphics.hpp>
+	"TirJoueur.hpp"
+	"Ship.hpp"
+	"TirBateau.hpp"
+	"AbstractMovingObject.h"
+
+1308320554 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\tirjoueur.hpp
+	<SFML/Graphics.hpp>
+	"AbstractMovingObject.h"
+	"Canon.h"
+
+1308321252 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\tirbateau.hpp
+	<SFML/Graphics.hpp>
+	"ship.hpp"
+	"Mur.h"
+	"AbstractMovingObject.h"
+
+1308318660 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\gestioncanon.h
+	<vector>
+	"TirJoueur.hpp"
+	"Canon.h"
+
+1308330806 source:c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\caseoccupee.cpp
+	"CaseOccupee.h"
+	"ImageManager.h"
+	"Map.h"
+	<sstream>
+
+1308317154 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\caseoccupee.h
+	"AbstractCaseObject.h"
+
+1308307082 source:c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\forme.cpp
+	"Forme.h"
+	"Map.h"
+
+1308307082 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\forme.h
+	<iostream>
+	<SFML/graphics.hpp>
+	"Mur.h"
+	"Point.h"
+
+1308331322 source:c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\forteresse.cpp
+	"forteresse.h"
+	"ImageManager.h"
+	"Map.h"
+	"CaseOccupee.h"
+	<sstream>
+
+1308317324 c:\users\yannick\desktop\cpp_a_rendre\rampart\sources\forteresse.h
+	"AbstractCaseObject.h"
+	"CaseOccupee.h"
+
